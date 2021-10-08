@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://app.daily.dev/akibs">
-    <img width="256" align="right" src="https://api.daily.dev/devcards/90363e7bf52c4830b247c030d2b32897.png?r=jup" width="400" alt="Saif Uddin's Dev Card"/></a>
+    <img width="356" align="right" src="https://api.daily.dev/devcards/90363e7bf52c4830b247c030d2b32897.png?r=jup" width="400" alt="Saif Uddin's Dev Card"/></a>
 </div>
 
 <br />
